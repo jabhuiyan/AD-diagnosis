@@ -6,7 +6,7 @@ Support Vector Machine model for dementia of Alzheimer’s type (DAT) diagnosis 
 by:
 _Jubaer Ahmed Bhuiyan_
 
-(Detailed information can be found in Final Report.pd)
+(Detailed information can be found in Final Report.pdf)
 --------------------------------
 Part of Intro To Machine Learning course by Prof. Karteek Popuri
 
